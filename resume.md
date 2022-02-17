@@ -1,1 +1,2 @@
-# Data Journalism Markdown practice resume
+# Xueer Lu
+## I am a bilingual multimedia journalist.
