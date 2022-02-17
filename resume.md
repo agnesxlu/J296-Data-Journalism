@@ -1,3 +1,4 @@
 # Xueer Lu
 ## I am a bilingual multimedia journalist.
-!['Xueer Lu Headshot'](/Xueer Lu_Photo.jpeg)
+
+!['Headshot','Xueer Lu Headshot'](/Xueer Lu_Photo.jpeg)
