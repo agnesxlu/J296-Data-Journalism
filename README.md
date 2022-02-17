@@ -1,1 +1,1 @@
-# J296-Data-Journalism
+# J296
