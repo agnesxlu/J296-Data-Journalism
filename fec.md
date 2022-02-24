@@ -36,4 +36,5 @@
 5. Sort column "Party" from A-Z.
 6. Use sum formula "=sum(B3:B35)".
 7. Donors from the Misc. Business sector contributed **$3,520,000** to the Democratic party.
+!['Question 2 Sheet'](/Question2Sheet.png)
 ### Which donors were based in Miami Lakes, FL?
