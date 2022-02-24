@@ -56,3 +56,4 @@
 10. Philip Morris account for about **68.54%** in the tobacco industry. 
 !['Question 3 Sheet'](/Question3Sheet.png)
 ### How much is it?
+According to the steps above, the amount of donation from Philip Morris is **$2,070,000**.
