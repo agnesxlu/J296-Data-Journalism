@@ -54,5 +54,5 @@
 8. In a clean cell underneath the spreadsheet, put in "Percentage", and use divide formula "=B24/B25".
 9. Click on the % icon and change the number into percentage. 
 10. Philip Morris account for about **68.54%** in the tobacco industry. 
-!['Question 3 Sheet2'](/Question3Sheet3.png)
+!['Question 3 Sheet'](/Question3Sheet.png)
 ### How much is it?
