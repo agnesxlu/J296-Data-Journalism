@@ -60,9 +60,23 @@ According to the steps above, the amount of donation from Philip Morris is **$2,
 
 ## Question 4
 ### Describe (in two to three sentences — no need for a detailed story pitch) one potential story from this dataset that you’d find promising if this were a project you were working on. Give it a headline. Include up to three types of sources you would call to report out the story and a few of the questions you might ask.
+#### Story idea
+I'm interested in the entertainment industry's impact on the presidential campaigns over the decades and I'm curious if the hollywood always been this liberal and democratic-leaning. This preferably a data-visualization piece where audience can see the change in donation amount, donation receiving party, and donors over the past decades.
 #### Headline
 Hollywood and presidents: how donations from the entertainment industry impact presidential campaigns over the decades
-#### Sources
-1. Political campaign expert
-2. Public information person from a major entertainment company that has made donations
-3. Expert in gender and entertainment
+#### Sources and questions to ask
+**1. Political campaign expert**
+* What are the major entertainment companies that has been donating to the presidential campaign over the years?
+* What are the most considerable donations ever received by campaign teams in the US politics history?
+* What are the tax changes towards the entertainment industry over the years after each presidential eletion? 
+**2. Public information person from a major entertainment company that has made donations**
+* When did the company start to make donations to presidentail campaigns? 
+**3. Expert in gender and entertainment**
+* Since hollywood used to be male-dominating and white, has the industry always chosen the Democratic party? 
+
+## Question 5
+### What data might be suitable to join with this data to provide context or additional stories? Give me two examples.
+1. Presidential election result in the past five decades: who was elected and which political party was the person from.
+2. Donation amount from the entertainment industry to presidential campaigns and the receiving party. 
+
+P.S. Dataset can be found here: https://docs.google.com/spreadsheets/d/1omSm8YXer-81XgzkcxnUbLak84A2rhGtyBE2YKmmuDM/edit#gid=228306439 
