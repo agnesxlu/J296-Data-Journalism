@@ -29,7 +29,7 @@
 
 ## Question 2
 ### How much did donors from the Misc. Business sector contribute to the Democratic party? 
-1. Choose column "Sector" from A-Z.
+1. Sort column "Sector" from A-Z.
 2. Select all the cells with Sector "Misc Business" and copy and paste them in to a new tab named "Question 2 Sheet".
 3. Also copy and paste the header of the original tab into the tab "Question 2 Sheet".
 4. Freeze the title row and bold it in the tab "Question 2 Sheet".
@@ -41,3 +41,18 @@
 1. Select column "City" and sort it from A-Z.
 2. Two donations are from Miami Lakes, FL and both from **"Windmere Corp"**.
 !['Question 2 Sheet2'](/Question2Sheet2.png)
+
+## Question 3
+### What percentage of the tobacco industry’s donations does Philip Morris account for? 
+1. Sort column "Industry" from A-Z.
+2. Select all the cells with Industry "Tobacco" and copy and paste them in to a new tab named "Question 3 Sheet".
+3. Also copy and paste the header of the original tab into the tab "Question 3 Sheet".
+4. Freeze the title row and bold it in the tab "Question 3 Sheet".
+5. Sort column "Donors" from A-Z.
+6. In a clean cell underneath the spreadsheet, put in "Philip Morris", and use sum formula "=sum(B5:B17)".
+7. In a clean cell underneath the spreadsheet, put in "Total", and use sum formula "=SUM(B2:B22)".
+8. In a clean cell underneath the spreadsheet, put in "Percentage", and use divide formula "=B24/B25".
+9. Click on the % icon and change the number into percentage. 
+10. Philip Morris account for about **68.54%** in the tobacco industry. 
+!['Question 3 Sheet2'](/Question3Sheet3.png)
+### How much is it?
