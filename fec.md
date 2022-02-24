@@ -18,4 +18,6 @@
 2. Name it "Pivot Table 1".
 3. Add "Industry" in Rows, add "Amount" in Values, and add "Party" in Columns. 
 4. Copy paste the values in "Pivot Table 1" into a new tab and name it "No Format Pivot Table 1".
-5. 
+5. Upload Screenshot of Pivot Table 1
+6. 
+!['Pivot Table 1'](/PivotTable1.png)
