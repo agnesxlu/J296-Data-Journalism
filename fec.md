@@ -38,3 +38,6 @@
 7. Donors from the Misc. Business sector contributed **$3,520,000** to the Democratic party.
 !['Question 2 Sheet'](/Question2Sheet.png)
 ### Which donors were based in Miami Lakes, FL?
+1. Select column "City" and sort it from A-Z.
+2. Two donations are from Miami Lakes, FL and both from **"Windmere Corp"**.
+!['Question 2 Sheet2'](/Question2Sheet2.png)
