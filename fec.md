@@ -13,11 +13,27 @@
 3. Freeze the title row and bold it. 
 
 ## Question 1
-### Which industries contributed the most to the Republican and Democratic parties? How much was contributed to each party?
+### Which industries contributed the most to the Republican and Democratic parties? 
 1. Select the whole spreadsheet and insert pivot table. 
 2. Name it "Pivot Table 1".
 3. Add "Industry" in Rows, add "Amount" in Values, and add "Party" in Columns. 
 4. Copy paste the values in "Pivot Table 1" into a new tab and name it "No Format Pivot Table 1".
-5. Upload Screenshot of Pivot Table 1
-6. 
+5. Sort Column F from Z-A.
+6. As shown, the **"Republican/Conservative"** industry contributed the most to the Republican and Democratic parties, with the amount of $7,514,000.
 !['Pivot Table 1'](/PivotTable1.png)
+### How much was contributed to each party?
+1. In "No Format Pivot Table 1" tab, sort Column D (representing the Democratic party) from Z-A. 
+2. The **"Media/Entertainment"** industry contributed the most to **the Democratic Party**, with the amount of **$1,880,000**.
+3. In "No Format Pivot Table 1" tab, sort Column E (representing the Republican party) from Z-A. 
+4. The **"Republican/Conservative"** industry contributed the most to **the Republican Party**, with the amount of **$7,514,000**.
+
+## Question 2
+### How much did donors from the Misc. Business sector contribute to the Democratic party? 
+1. Choose column "Sector" from A-Z.
+2. Select all the cells with Sector "Misc Business" and copy and paste them in to a new tab named "Question 2 Sheet".
+3. Also copy and paste the header of the original tab into the tab "Question 2 Sheet".
+4. Freeze the title row and bold it in the tab "Question 2 Sheet".
+5. Sort column "Party" from A-Z.
+6. Use sum formula "=sum(B3:B35)".
+7. Donors from the Misc. Business sector contributed **$3,520,000** to the Democratic party.
+### Which donors were based in Miami Lakes, FL?
