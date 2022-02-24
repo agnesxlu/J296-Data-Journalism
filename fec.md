@@ -57,3 +57,12 @@
 !['Question 3 Sheet'](/Question3Sheet.png)
 ### How much is it?
 According to the steps above, the amount of donation from Philip Morris is **$2,070,000**.
+
+## Question 4
+### Describe (in two to three sentences — no need for a detailed story pitch) one potential story from this dataset that you’d find promising if this were a project you were working on. Give it a headline. Include up to three types of sources you would call to report out the story and a few of the questions you might ask.
+#### Headline
+Hollywood and presidents: how donations from the entertainment industry impact presidential campaigns over the decades
+#### Sources
+1. Political campaign expert
+2. Public information person from a major entertainment company that has made donations
+3. Expert in gender and entertainment
