@@ -68,9 +68,11 @@ Hollywood and presidents: how donations from the entertainment industry impact p
 **1. Political campaign expert**
 * What are the major entertainment companies that has been donating to the presidential campaign over the years?
 * What are the most considerable donations ever received by campaign teams in the US politics history?
-* What are the tax changes towards the entertainment industry over the years after each presidential eletion? </br>
+* What are the tax changes towards the entertainment industry over the years after each presidential eletion?
+
 **2. Public information person from a major entertainment company that has made donations**
-* When did the company start to make donations to presidentail campaigns? </br>
+* When did the company start to make donations to presidentail campaigns? 
+
 **3. Expert in gender and entertainment**
 * Since hollywood used to be male-dominating and white, has the industry always chosen the Democratic party? 
 
